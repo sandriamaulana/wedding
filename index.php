@@ -89,7 +89,7 @@
 			</div>
 		</nav>
 
-		<header id="fh5co-header" class="fh5co-cover" role="banner">
+		<header id="fh5co-header" class="fh5co-cover" role="banner" >
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
