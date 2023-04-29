@@ -89,7 +89,7 @@
 			</div>
 		</nav>
 
-		<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/img_bg_2.JPG);" data-stellar-background-ratio="0.5">
+		<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -516,7 +516,7 @@
 				<div class="container-fluid">
 
 					<div class="row">
-						<div class="col-md-12 m-h-20 bg-img rounded-left" style="background-image: url('images/DSC05445.JPG')">
+						<div class="col-md-12 m-h-20 bg-img rounded-left" style="background-image: url('images/DSC05445.jpg')">
 						</div>
 						<div class="col-md-12 text-center py-5 px-sm-5 ">
 							<?php if (isset($_GET['inviting'])) { ?>
