@@ -111,7 +111,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
-						<h2>Hello <?= $_GET['inviting']; ?> ...</h2>
+						<h2>Hello <?= str_replace('_', ' ', $_GET['inviting']); ?> ...</h2>
 						<p>We invited you to celebrate our wedding</p>
 					</div>
 				</div>
@@ -522,7 +522,7 @@
 							<?php if (isset($_GET['inviting'])) { ?>
 
 								<div style="font-family: Sacramento; font-size: 30px; color:#D5AE36">Undangan Pernikahan Untuk</div>
-								<div style="font-family: Sacramento; font-size: 40px; color:#D5AE36"><strong><?= $_GET['inviting']; ?></strong> </div>
+								<div style="font-family: Sacramento; font-size: 40px; color:#D5AE36"><strong><?= str_replace('_', ' ', $_GET['inviting']); ?></strong> </div>
 
 								<form>
 									<button type="submit" class="btn btn-block btn-cta btn-undangan" data-dismiss="modal" aria-label="Close" onclick="play()">Buka Undangan</button>
