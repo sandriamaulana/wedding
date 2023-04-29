@@ -10,23 +10,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Ahmad &mdash; Desya Wedding</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="description" content="Undangan Pernikahan Ahmad dan Desya" />
+	<meta name="keywords" content="Pernikahan, Wedding, Undangan Pernikahan" />
 
-	<!-- 
-	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="" />
@@ -38,7 +25,7 @@
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
-
+	<link rel="icon" href="images/logo.png">
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
 
@@ -60,12 +47,12 @@
 	<!-- Theme style  -->
 
 	<link rel="stylesheet" href="css/modal.css">
-	<link rel="stylesheet" href="css/testi.css">
 
 	<link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/68818763319cf667ed141dc03e654e8db3424772/assets/css/animate.min.css' />
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans:600" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Overpass:300,400,600,700,800,900" rel="stylesheet">
 	<link rel="stylesheet" href="css/style.css">
+
 
 
 	<!-- Modernizr JS -->
@@ -81,7 +68,7 @@
 	<audio src="music/music.mp3" id="my_audio" loop="loop"></audio>
 
 
-	<div id="page" class="supreme-container">
+	<div id="page" class="">
 		<nav class="fh5co-nav" role="navigation">
 			<div class="container">
 
@@ -230,6 +217,20 @@
 			</div>
 		</div>
 
+		<div id="fh5co-counter" class="fh5co-bg fh5co-counter parallax-2">
+			<div class="container-fluid">
+				<div class="row">
+
+					<div class="display-t">
+						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+							<h1>Ahmad Zaeni &amp; Desya Devriani Muchtar Hasanudin</h1>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
 		<div id="fh5co-couple-story">
 			<div class="container">
 				<div class="row">
@@ -369,7 +370,7 @@
 								</a>
 							</li>
 
-							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gallery-8.jpg); ">
+							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galllery-8.jpg); ">
 								<a href="#" class="color-5">
 									<div class="case-studies-summary">
 										<span>90 Photos</span>
@@ -377,7 +378,7 @@
 									</div>
 								</a>
 							</li>
-							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/gallery-9.jpg); ">
+							<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/galllery-9.jpg); ">
 								<a href="#" class="color-6">
 									<div class="case-studies-summary">
 										<span>56 Photos</span>
@@ -386,59 +387,6 @@
 								</a>
 							</li>
 						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div id="fh5co-counter" class="fh5co-bg fh5co-counter" style="background-image:url(images/img_bg_5.jpg);">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row">
-					<div class="display-t">
-						<div class="display-tc">
-							<div class="col-md-3 col-sm-6 animate-box">
-								<div class="feature-center">
-									<span class="icon">
-										<i class="icon-users"></i>
-									</span>
-
-									<span class="counter js-counter" data-from="0" data-to="500" data-speed="5000" data-refresh-interval="50">1</span>
-									<span class="counter-label">Estimated Guest</span>
-
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 animate-box">
-								<div class="feature-center">
-									<span class="icon">
-										<i class="icon-user"></i>
-									</span>
-
-									<span class="counter js-counter" data-from="0" data-to="1000" data-speed="5000" data-refresh-interval="50">1</span>
-									<span class="counter-label">We Catter</span>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 animate-box">
-								<div class="feature-center">
-									<span class="icon">
-										<i class="icon-calendar"></i>
-									</span>
-									<span class="counter js-counter" data-from="0" data-to="402" data-speed="5000" data-refresh-interval="50">1</span>
-									<span class="counter-label">Events Done</span>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 animate-box">
-								<div class="feature-center">
-									<span class="icon">
-										<i class="icon-clock"></i>
-									</span>
-
-									<span class="counter js-counter" data-from="0" data-to="2345" data-speed="5000" data-refresh-interval="50">1</span>
-									<span class="counter-label">Hours Spent</span>
-
-								</div>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -509,57 +457,18 @@
 
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-						<h2>We Offer Services</h2>
+						<h2>Watch Our Video</h2>
 						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem
 							provident. Odit ab aliquam dolor eius.</p>
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-md-6">
-						<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
-							<span class="icon">
-								<i class="icon-calendar"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>We Organized Events</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos
-									cumque dicta adipisci architecto culpa amet.</p>
-							</div>
-						</div>
-
-						<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
-							<span class="icon">
-								<i class="icon-image"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Photoshoot</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos
-									cumque dicta adipisci architecto culpa amet.</p>
-							</div>
-						</div>
-
-						<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
-							<span class="icon">
-								<i class="icon-video"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Video Editing</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos
-									cumque dicta adipisci architecto culpa amet.</p>
-							</div>
-						</div>
-
-					</div>
-
-					<div class="col-md-6 animate-box">
-						<div class="fh5co-video fh5co-bg" style="background-image: url(images/img_bg_3.jpg); ">
-							<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
-							<div class="overlay"></div>
-						</div>
+				<div class="animate-box">
+					<div class="fh5co-video fh5co-bg" style="background-image: url(images/img_bg_3.jpg); ">
+						<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
+						<div class="overlay"></div>
 					</div>
 				</div>
-
 
 			</div>
 		</div>
@@ -597,29 +506,6 @@
 				</div>
 			</div>
 		</div>
-
-		<footer id="fh5co-footer" role="contentinfo">
-			<div class="container">
-
-				<div class="row copyright">
-					<div class="col-md-12 text-center">
-						<p>
-							<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small>
-							<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
-						</p>
-						<p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-						</ul>
-						</p>
-					</div>
-				</div>
-
-			</div>
-		</footer>
 	</div>
 	<!-- Modal -->
 
@@ -630,7 +516,7 @@
 				<div class="container-fluid">
 
 					<div class="row">
-						<div class="col-md-12 m-h-30 bg-img rounded-left" style="background-image: url('images/DSC05445.JPG')">
+						<div class="col-md-12 m-h-20 bg-img rounded-left" style="background-image: url('images/DSC05445.JPG')">
 						</div>
 						<div class="col-md-12 text-center py-5 px-sm-5 ">
 							<?php if (isset($_GET['inviting'])) { ?>
@@ -733,90 +619,6 @@
 			day: d.getDate(),
 			enableUtc: false
 		});
-		jQuery(document).ready(function($) {
-			var feedbackSlider = $(".feedback-slider");
-			feedbackSlider.owlCarousel({
-				items: 1,
-				nav: true,
-				dots: true,
-				autoplay: true,
-				loop: true,
-				mouseDrag: true,
-				touchDrag: true,
-				navText: [
-					"<i class='fa fa-long-arrow-left'></i>",
-					"<i class='fa fa-long-arrow-right'></i>"
-				],
-				responsive: {
-					// breakpoint from 767 up
-					767: {
-						nav: true,
-						dots: false
-					}
-				}
-			});
-
-			feedbackSlider.on("translate.owl.carousel", function() {
-				$(".feedback-slider-item h3")
-					.removeClass("animated fadeIn")
-					.css("opacity", "0");
-				$(".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating")
-					.removeClass("animated zoomIn")
-					.css("opacity", "0");
-			});
-
-			feedbackSlider.on("translated.owl.carousel", function() {
-				$(".feedback-slider-item h3").addClass("animated fadeIn").css("opacity", "1");
-				$(".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating")
-					.addClass("animated zoomIn")
-					.css("opacity", "1");
-			});
-			feedbackSlider.on("changed.owl.carousel", function(property) {
-				var current = property.item.index;
-				var prevThumb = $(property.target)
-					.find(".owl-item")
-					.eq(current)
-					.prev()
-					.find("img")
-					.attr("src");
-				var nextThumb = $(property.target)
-					.find(".owl-item")
-					.eq(current)
-					.next()
-					.find("img")
-					.attr("src");
-				var prevRating = $(property.target)
-					.find(".owl-item")
-					.eq(current)
-					.prev()
-					.find("span")
-					.attr("data-rating");
-				var nextRating = $(property.target)
-					.find(".owl-item")
-					.eq(current)
-					.next()
-					.find("span")
-					.attr("data-rating");
-				$(".thumb-prev").find("img").attr("src", prevThumb);
-				$(".thumb-next").find("img").attr("src", nextThumb);
-				$(".thumb-prev")
-					.find("span")
-					.next()
-					.html(prevRating + '<i class="fa fa-star"></i>');
-				$(".thumb-next")
-					.find("span")
-					.next()
-					.html(nextRating + '<i class="fa fa-star"></i>');
-			});
-			$(".thumb-next").on("click", function() {
-				feedbackSlider.trigger("next.owl.carousel", [300]);
-				return false;
-			});
-			$(".thumb-prev").on("click", function() {
-				feedbackSlider.trigger("prev.owl.carousel", [300]);
-				return false;
-			});
-		}); //end ready
 	</script>
 
 </body>
