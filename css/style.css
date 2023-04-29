@@ -366,11 +366,13 @@ figure {
 }
 
 .fh5co-cover {
+  background-image:url("../images/img_bg_2.jpg");
   height: 900px;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
   width: 100%;
+  background-attachment: fixed;
 }
 
 .fh5co-cover .overlay {
@@ -391,6 +393,22 @@ figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover {
     height: 600px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .fh5co-cover {
+     /* The image used */
+  background-image: url("../images/img_bg_mobile.jpg");
+
+  /* Full height */
+  height: 100%;
+  width: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   }
 }
 
